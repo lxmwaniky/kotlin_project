@@ -1,6 +1,5 @@
 fun main() {
-    var age: Int = 19
-    println(age)
-    var name: String = "Alex"
-    println(name)
+    var firstName = "Alex"
+    var lastName = "Mwaniki"
+    println("Hello $firstName $lastName")
 }
